@@ -32,7 +32,7 @@ public class UserQueueService {
     }
 
     // 진입을 허용
-    public Mono<?> allowUser(final String queue, final Long count){
+    public Mono<Long> allowUser(final String queue, final Long count){
         // 진입을 허용하는 단계
         // 1.wait queue 사용자를 제거
         // 2. proceed queue 사용자를 추가
