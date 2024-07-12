@@ -14,7 +14,7 @@
 
 <br>
 
-## ** 시퀸스 다이어그램 **
+## **시퀸스 다이어그램**
 <div align="center">
 
   <br>
@@ -25,7 +25,7 @@
   <img width="904" alt="스크린샷 2024-07-12 오후 3 56 59" src="https://github.com/user-attachments/assets/a3fdc086-bca4-43c3-aa9f-37d7c3479204">
 </div>
 
-## ** 설명 **
+## **설명**
 Redis와 WebFlux를 활용하여 배운내용을 실습해보기 위한 프로젝트입니다. WebFlux를 통해 비동기적으로 애플리케이션을 실행한 뒤, Redis의 SortedSet을 활용하여 Single Queue로 이용하고 선착순으로 Queue에 등록하여 순서를 보장합니다.
 짧은 시간에 대용량 트래픽이 발생되는 것을 대비해 안정적인 운영을 도와주는 시스템입니다. 
 <br>
