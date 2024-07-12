@@ -13,6 +13,7 @@
   <img width="1085" alt="스크린샷 2024-07-12 오후 3 33 38" src="https://github.com/user-attachments/assets/da1c1b27-a87c-4e4b-883a-1bd5531784ea">
 
 <br>
+</div>
 
 ## **시퀸스 다이어그램**
 <div align="center">
